@@ -1346,7 +1346,7 @@
           "_name": "gallery4",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Influencer",
