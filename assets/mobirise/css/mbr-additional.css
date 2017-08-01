@@ -1048,8 +1048,18 @@ h6,
 #header3-3n .mbr-section-subtitle {
   text-align: center;
 }
-#slider-5 H2 {
-  font-size: 48px;
+#header3-4a .mbr-section-title,
+#header3-4a .mbr-section-subtitle {
+  text-align: center;
+}
+#testimonials1-24 .card-footer > small {
+  color: #000000;
+}
+#testimonials1-24 .card-footer > div {
+  color: #000000;
+}
+#testimonials1-24 .card-block P {
+  text-align: center;
 }
 #ext_menu-3b .hide-buttons .nav-btn {
   display: none !important;
@@ -1070,11 +1080,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-3b .link {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
 }
 #ext_menu-3b .dropdown-item,
 #ext_menu-3b .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.812rem;
 }
 #ext_menu-3b .link:hover,
 #ext_menu-3b .dropdown-item:hover,

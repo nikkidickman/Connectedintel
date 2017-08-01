@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 152,
+    "uniqCompNum": 155,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1133,6 +1133,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "header1-3g",
           "_params": {
             "parallax": true,
@@ -1155,14 +1160,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "BRING YOUR DATA TO LIFE",
-          "text": "Get the most out of your existing systems and third-party applications by enriching them with powerful analytics and compelling data visualizations.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"platform.html\" data-toolbar=\"-mbrBtnMove\">PLATFORM</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          }
+          "title": "ALL YOUR DATA IN SYNC<br>AND IN ONE PLACE<br>",
+          "text": "Connected Inteligence helps you get the most out of your customer data.   Aggregate from any source.  Correlate data to tell the right story. Enrich with demo, behaviorial and social data using powerful analytics and compelling data visualizations.  Make your data actionable.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"platform.html\" data-toolbar=\"-mbrBtnMove\">PLATFORM</a> "
         },
         {
           "_styles": {
@@ -1182,7 +1182,7 @@
             "showMeta": true
           },
           "title": "OUR PRODUCT",
-          "meta": "Our platform puts customers and marketers at the center. Connected Intelligence is an AI data platform that unlocks scale-able monetization using unique data sets in large under-monetized industries. We are aggregating and activating one of the largest and unique consumer data sets with proprietary data in industries in which we operate. Social. Entertainment. Financial. Health. Smart Cities. All customer data points blend into a single, coherent human centric data model regardless of type, volume, velocity or source."
+          "meta": "Our platform puts customers and marketers at the center. Connected Intelligence is an AI data platform that unlocks scale-able monetization using unique data sets in large under-monetized industries. We are aggregating and activating one of the largest and unique consumer data sets with proprietary data in industries in which we operate. Social. Entertainment. Financial. Health. Smart Cities. <br><br>All customer data points blend into a single, coherent human centric data model regardless of type, volume, velocity or source.  We call this our Audience Intelligence Platform (\"AIP\").<br>"
         },
         {
           "_tags": [
@@ -1226,7 +1226,7 @@
           },
           "title1": "Data Management",
           "subtitle1": "",
-          "caption1": "Metadata driven code generator for building, maintaining and extending your customer data platform- with data of any kind, source and frequency.<br><br>",
+          "caption1": "Automated data ingestion and intelligent data management - with data of any kind, source and frequency.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -1238,7 +1238,7 @@
           },
           "title2": "Execution",
           "subtitle2": "",
-          "caption2": "Your CDP is the central nervous system for your martech stack- coordinating action across all of your execution channels. Outcomes of marketing executions feed back into the platform as inputs- closing the loop and optimizing future actions.",
+          "caption2": "Your AIP is the central nervous system for your marketing stack.  Coordinating activation across all of your execution channels. Outcomes of marketing executions feed back into the platform as inputs- closing the loop and optimizing future actions.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1262,7 +1262,7 @@
           },
           "title4": "Deployment",
           "subtitle4": "",
-          "caption4": "On-premise, cloud or managed services deployment model. Full scale implementation ranging from weeks to a few months. Professional services - as much or as little as you need.",
+          "caption4": "SaaS in the cloud or managed services deployment model. Full scale implementation ranging from weeks to a few months. Professional services - as much or as little as you need.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -1293,150 +1293,103 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_styles": {
-            "H2": {
-              "font-size": "48px"
-            }
-          },
+          "_name": "header1",
+          "_anchor": "header1-49",
           "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": "8",
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "THE CHALLANGE: INFLUENCER",
-                "showText": true,
-                "text": "Influencer advertising has not been activated at scale with verified attribution.  ",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "THE CHALLENGE: CINEMA",
-                "showText": true,
-                "text": "The highly valuable movie-goer journey with an identified audience and pre/post attendance attribution has not been available to activate at scale.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1364.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "OUR SOLUTION",
-                "showText": true,
-                "text": "Scale‐able data platform sitting on the programmatic exchanges with the ability to ingest and activate unique industry data sets enriched with a large consumer and social file.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1364.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
-          "_anchor": "slider-5",
-          "articleLayout": false
+          "title": "OUR SOLUTION",
+          "text": "Scale‐able data platform sitting on the programmatic exchanges with the ability to ingest and activate unique industry data sets enriched with a large consumer and social file.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "<p>Found and Exited CityStuff, Inc. + SimplyEngage&nbsp;</p><p>Founder of Kate Shea Foundation&nbsp;</p><p>Loves flip-flops</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/ed-vincent-600x600.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Ed Vincent",
-              "authorBio": "Co-Founder"
-            },
-            {
-              "text": "<p>Found and exited T3 Media&nbsp;</p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Finalist of Ernst &amp; Young Entrepreneur of the Year&nbsp;</span></p><p>Unhealthy obsession with Hamilton</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/chris-bryant-600x600.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Chris Bryant",
-              "authorBio": "Co-Founder"
-            },
-            {
-              "text": "<p>CTO of 24/7 Real Media&nbsp;</p><p>Founder of Sparkway&nbsp;</p><p>Traded his desk for a couch&nbsp;</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/jess-marcus-1400x1400.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Jeff Marcus",
-              "authorBio": "Co-Founder"
-            }
-          ],
-          "_anchor": "testimonials1-24",
+          "_name": "header3",
+          "_anchor": "header3-4a",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
+            "showMeta": true
           },
-          "title": "OUR TEAM",
-          "subtitle": ""
+          "title": "OUR INDUSTRIES",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Influencer",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cinema",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Entertainment",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-2000x1334.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-48",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -1459,7 +1412,7 @@
                 "showTitle": true,
                 "title": "INSIGHTS",
                 "showText": true,
-                "text": "Alternative Inventory (Influencer, Cinema, Smart Video Streaming) DMP on the major programmatic exchanges with over 300MM consumer records as core base of consumer file with unique data sets from film, television, social, medical and government.",
+                "text": "Alternative Inventory (Influencer, Cinema, SVOD Streaming) DMP on the major programmatic exchanges with over 300MM consumer records as core base of consumer file with unique data sets from film, television, social, medical and government.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -1488,7 +1441,7 @@
                 "showTitle": true,
                 "title": "VIDEO STREAMING",
                 "showText": true,
-                "text": "Connected Intelligence aids video service providers at every stage of their life cycle.  Acquisition.  Engagement.  Attribution.",
+                "text": "Connected Intelligence aids video service providers at every stage of their life cycle. Acquisition. Engagement. Attribution.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -1499,6 +1452,100 @@
           },
           "_anchor": "slider-1c",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#000000"
+            },
+            ".card-footer > div": {
+              "color": "#000000"
+            },
+            ".card-block P": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "Found and Exited CityStuff, Inc. + SimplyEngage&nbsp;<div><br></div><div>Founder of Predict + Kate Shea Foundation&nbsp;</div><div><br></div><div>Loves flip-flops and his 3 daughters</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/ed-vincent-600x600.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Ed Vincent",
+              "authorBio": "Co-Founder"
+            },
+            {
+              "text": "Found and exited T3 Media&nbsp;<div><br></div><div>Finalist of Ernst &amp; Young Entrepreneur of the Year&nbsp;</div><div><br></div><div>Unhealthy obsession with Hamilton &amp; All things entertainment</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/chris-bryant-600x600.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Chris Bryant",
+              "authorBio": "Co-Founder"
+            },
+            {
+              "text": "<p>Early executive at&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">DoubleClick</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">CTO of 24/7 Real Media&nbsp;</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Founder of Sparkway&nbsp;</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Traded his desk for a couch</span></p><p><br></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/jess-marcus-1400x1400.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Jeff Marcus",
+              "authorBio": "Co-Founder"
+            }
+          ],
+          "_anchor": "testimonials1-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1126.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#c1c1c1",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "OUR TEAM",
+          "subtitle": ""
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1516,20 +1563,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/movie-tickets-logo-2000x800.png",
-                    "link": "https://www.movietickets.com/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/download-144x62.png",
+                    "src": "@PROJECT_PATH@/assets/images/download-288x124.png",
                     "link": "http://www.aenetworks.com/",
                     "active": true,
                     "alt": "",
@@ -1542,28 +1576,41 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/sv-media-logo-180x100.png",
-                    "link": "http://screenvisionmedia.com/",
+                    "src": "@PROJECT_PATH@/assets/images/a-e-networks-200x123.png",
+                    "link": "http://www.aenetworks.com/",
                     "active": true,
                     "alt": "",
                     "title": "",
-                    "linkInNewWindow": false
+                    "linkInNewWindow": true
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/sv-media-logo-240x134.png",
+                    "link": "http://www.aenetworks.com/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
                   }
                 }
               }
             ],
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1324.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff",
             "showTitle": true,
             "showSubtitle": true,
             "showBullets": true,
@@ -1613,10 +1660,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1653,7 +1700,7 @@
           "_anchor": "ext_menu-3b",
           "_params": {
             "bgColor": "#363333",
-            "fontSize": "0.7",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -1685,13 +1732,25 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3m\">OUR PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-5\">OUR SOLUTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-1c\">INSIGHTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-24\">OUR TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTestimonials5-3o\">OUR PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"platform.html\">OUR PLATFORM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Pricing.html\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"login.html\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3m\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-49\">SOLUTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-48\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-1c\">INSIGHTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-24\">&nbsp;TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTestimonials5-3o\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"platform.html\">PLATFORM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Pricing.html\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"login.html\">LOGIN</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "H4": {
+              "font-size": "20px",
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#c0a375"
+            }
+          },
           "_anchor": "contacts3-3p",
           "_params": {
             "paddingTop": 3,
@@ -1784,19 +1843,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "_styles": {
-            "P": {
-              "font-size": "16px"
-            },
-            "H4": {
-              "font-size": "20px",
-              "color": "#efefef"
-            },
-            "LI": {
-              "color": "#c0a375"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -1919,13 +1966,18 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3m\">OUR PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-5\">OUR SOLUTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-1c\">INSIGHTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-24\">OUR TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTestimonials5-3o\">OUR PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"platform.html\">OUR PLATFORM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Pricing.html\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"login.html\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3m\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-49\">SOLUTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-48\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-1c\">INSIGHTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-24\">&nbsp;TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTestimonials5-3o\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"platform.html\">PLATFORM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Pricing.html\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"login.html\">LOGIN</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "header1-3x",
           "_params": {
             "parallax": true,
@@ -1948,12 +2000,7 @@
           },
           "title": "Curate, Track, Analyze, Activate",
           "text": "Collect  all your data sources and visualize on one dashboard&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1961,6 +2008,17 @@
             "Extension"
           ],
           "_name": "extFeatures4",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "extFeatures4-43",
           "_params": {
             "paddingTop": "4",
@@ -2047,18 +2105,7 @@
           "title4": "DERIVE INTELLGENCE AND DRIVE ACTION",
           "subtitle4": "",
           "caption4": "Users can search across all data sources at once with Quaero through a variety of integrated applications. They can search across all data source at once, visualize relationships, share insights with colleagues and coordinate execution across the full marketing technology stack. By reducing friction between data, users and execution systems",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
