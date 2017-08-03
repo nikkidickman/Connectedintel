@@ -1238,7 +1238,7 @@
           },
           "title2": "Analyze",
           "subtitle2": "",
-          "caption2": "Your AIP is the central nervous system for your marketing stack.  Coordinating activation across all of your execution channels. Outcomes of marketing executions feed back into the platform as inputs- closing the loop and optimizing future actions.",
+          "caption2": "In-line analytics get your models into production and driving results with just a few clicks. Automated machine learning puts the power of data science in the hands of marketers.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1250,7 +1250,7 @@
           },
           "title3": "Activate",
           "subtitle3": "",
-          "caption3": "In-line analytics get your models into production and driving results with just a few clicks. Automated machine learning puts the power of data science in the hands of marketers.",
+          "caption3": "Your AIP is the central nervous system for your marketing stack. Coordinating activation across all of your execution channels. Outcomes of marketing executions feed back into the platform as inputs- closing the loop and optimizing future actions.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1410,12 +1410,22 @@
                 "active": false
               },
               {
-                "tags": "Entertainment",
+                "tags": "SVOD",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-4-2000x1334-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-2000x1334.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Fintech",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1325.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
