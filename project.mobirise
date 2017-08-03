@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "platform.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1476,7 +1476,7 @@
                 "showTitle": true,
                 "title": "INSIGHTS",
                 "showText": true,
-                "text": "Alternative Inventory (Influencer, Cinema, SVOD Streaming) DMP on the major programmatic exchanges with over 300MM consumer records as core base of consumer file with unique data sets from film, television, social, medical and government.",
+                "text": "Alternative Inventory (Influencer, Cinema, SVOD Streaming) DMP with over 300MM consumer records as core base of consumer file with unique data sets from film, television, social, medical and government.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -2175,71 +2175,6 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader16",
-          "_anchor": "extHeader16-5h",
-          "_params": {
-            "imageSize": "83",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader16_bg.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "showImage": true,
-            "showTitle": false,
-            "showText": false,
-            "showForm": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/slide1-1400x1050.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "HEADER WITH IMAGE",
-          "text": "Full-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "form": {
-            "action": "nikki.dickman@simplypredict.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -2934,7 +2869,7 @@
             "showButton": false
           },
           "title": "OUR STRATEGIC APPROACH",
-          "text": "<p>Connected Intelligence is a holistic strategic approach to analytics with the simple goal of finding actionable insights and metrics. In other words, the Connected Intelligence is a way of thinking about analytics to get the data you need to drive your email marketing campaigns (although it can be used to almost any kind of online marketing campaign).</p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>Connected Intelligence is a holistic strategic approach to analytics with the simple goal of finding actionable insights and metrics. In other words, the Connected Intelligence is a way of thinking about analytics to get the data you need to drive your marketing campaigns.</p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -3013,7 +2948,7 @@
           },
           "title3": "Experience Analysis",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Experience analysis explains the why behind the what.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">Experience analysis enables you to understand some of the following problems:</span><br><br>Why do certain segments have higher open rates than others?<br>Why you get unsubscriptions on every transactional campaign with no discounts?<br>Why you get lower revenue per campaign during certain months of the year?<br>",
+          "caption3": "Experience analysis explains the why behind the what.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">Experience analysis enables you to understand some of the following problems:</span><br><br>Why do certain segments have higher open rates than others?<br>Why you get unsubscribes on every transactional campaign with no discounts?<br>Why do you get lower revenue per campaign during certain months of the year?<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -4102,13 +4037,13 @@
           "title2": "<br><div><span style=\"font-weight: normal;\">Go beyond the status quo and expand your network across borders.</span></div>",
           "text2": "",
           "date3": "3",
-          "title3": "<span style=\"font-weight: normal;\">Grow your global network based on real influence (and a scoring algorithm you’ll have to see to believe). Do more with intelligent insights.</span>",
+          "title3": "<span style=\"font-weight: normal;\">Grow your brand with real influence based on a data driven influencer score . Do more with intelligent insights.</span>",
           "text3": "",
           "date4": "4",
           "title4": "<span style=\"font-weight: normal;\">Benchmark your brand’s share of influence in the market and define a baseline for improvement</span>",
           "text4": "",
           "date5": "5",
-          "title5": "<span style=\"font-weight: normal;\">Analyze 360° performance across each and every initiative, piece of content, and platform</span>",
+          "title5": "<span style=\"font-weight: normal;\">Analyze performance across every initiative, piece of content, and platform</span>",
           "text5": "",
           "date6": "6",
           "title6": "<span style=\"font-weight: normal;\">Align your investment with impact to know who is most effectively driving engagement for your brand</span>",
@@ -4216,7 +4151,7 @@
           },
           "title2": "Gain Insights",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Use hard data to find the most relevant Creator for your brand. Gain insights on Creators’ follower stats, past content, audience breakdown, engagement rates and brand affinity.",
+          "caption2": "Use data to find the most relevant Creator for your brand. Gain insights on Creators’ follower stats, past content, audience breakdown, engagement rates and brand affinity.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
