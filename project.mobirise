@@ -1407,8 +1407,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/influencer-2-2000x1332-800x532.png",
+                "image": "@PROJECT_PATH@/assets/images/influencer-2-2000x1332.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1417,8 +1417,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cinema-2000x1332-800x532.png",
+                "image": "@PROJECT_PATH@/assets/images/cinema-2000x1332.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1427,20 +1427,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/svod2-1-2000x1334-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/svod2-1-2000x1334.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Fintech",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1325-800x530.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fintech-1-2000x1325-800x530.png",
+                "image": "@PROJECT_PATH@/assets/images/fintech-1-2000x1325.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
