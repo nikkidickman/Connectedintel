@@ -1597,3 +1597,94 @@ h6,
 #extForm3-5a .intro-box h4 {
   color: #c1c1c1;
 }
+
+
+#ext_menu-5o .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-5o .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-5o .navbar-toggler {
+  color: #efefef;
+}
+#ext_menu-5o .close-icon::before,
+#ext_menu-5o .close-icon::after {
+  background-color: #efefef;
+}
+#ext_menu-5o .link,
+#ext_menu-5o .dropdown-item {
+  color: #efefef;
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-5o .link {
+  font-size: 0.7rem;
+}
+#ext_menu-5o .dropdown-item,
+#ext_menu-5o .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#ext_menu-5o .link:hover,
+#ext_menu-5o .dropdown-item:hover,
+#ext_menu-5o .link:focus,
+#ext_menu-5o .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-5o .link[aria-expanded="true"],
+#ext_menu-5o .dropdown-menu {
+  background: #1c1a1a;
+}
+#ext_menu-5o .nav-dropdown-sm .link:focus,
+#ext_menu-5o .nav-dropdown-sm .link:hover,
+#ext_menu-5o .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-5o .nav-dropdown-sm .dropdown-item:hover {
+  background: #2e2c2c!important;
+}
+#ext_menu-5o .navbar,
+#ext_menu-5o .nav-dropdown-sm,
+#ext_menu-5o .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-5o .nav-dropdown-sm .dropdown-menu {
+  background: #363333;
+}
+#ext_menu-5o .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#ext_menu-5o .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-5o .bg-color.transparent.opened .link:hover,
+#ext_menu-5o .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-5o .link[aria-expanded="true"],
+#ext_menu-5o .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-5o .btn {
+  font-size: 12px;
+  font-family: 'Oxygen', sans-serif;
+}
+#extFeatures11-5s H4 {
+  text-align: center;
+}
+#header3-5t .mbr-section-title,
+#header3-5t .mbr-section-subtitle {
+  text-align: center;
+}
+#extFeatures4-5r .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures4-5r .wraper {
+  border-color: undefined !important;
+}
+#contacts3-5p P {
+  font-size: 16px;
+}
+#contacts3-5p H4 {
+  font-size: 20px;
+  color: #efefef;
+}
+#contacts3-5p LI {
+  color: #c0a375;
+}
