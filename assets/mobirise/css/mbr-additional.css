@@ -1238,6 +1238,9 @@ h6,
 #extFeatures4-43 P {
   text-align: left;
 }
+#extFeatures4-43 H4 {
+  font-size: 20px;
+}
 #contacts3-3s P {
   font-size: 16px;
 }
@@ -1400,6 +1403,19 @@ h6,
 #ext_menu-4p .btn {
   font-size: 12px;
   font-family: 'Oxygen', sans-serif;
+}
+#msg-box3-5k .mbr-section-title,
+#msg-box3-5k p {
+  color: #000;
+}
+#msg-box3-5k .mbr-section-title {
+  font-size: 36px;
+}
+#extFeatures3-5m .mbr-iconfont-features4 {
+  color: #c0a375 !important;
+}
+#extFeatures3-5m .wraper {
+  border-color: #c0a375 !important;
 }
 #header3-4w .mbr-section-title,
 #header3-4w .mbr-section-subtitle {
