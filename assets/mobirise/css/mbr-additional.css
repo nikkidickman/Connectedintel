@@ -1049,12 +1049,22 @@ h6,
 #header3-3n .mbr-section-subtitle {
   text-align: center;
 }
+#header3-3n SMALL {
+  font-size: 20px;
+}
+#features3-3m P {
+  font-size: 20px;
+}
+#features3-3m H4 {
+  font-size: 22px;
+}
 #msg-box3-5e .mbr-section-title,
 #msg-box3-5e p {
   color: #000;
 }
 #msg-box3-5e .lead P {
   color: #efefef;
+  font-size: 20px;
 }
 #msg-box3-5e .mbr-section-title {
   color: #efefef;

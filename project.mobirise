@@ -1169,6 +1169,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "SMALL": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -1288,7 +1291,15 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            },
+            "H4": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_inherit": "msg-box8",
@@ -1297,7 +1308,8 @@
               "color": "#000"
             },
             ".lead P": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "color": "#efefef"
@@ -1328,7 +1340,7 @@
             "showButton": false
           },
           "title": "DEPLOYMENT",
-          "text": "<p>SaaS in the cloud or managed services deployment model. Full scale implementation&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">ranging from weeks to a few months. Professional services - as much or as little as you need.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">All customer data points blend into a single, coherent human centric data model regardless of type, volume, velocity or source. We call this our Audience Intelligence Platform (\"AIP\").</span><br></p>",
+          "text": "<p>SaaS in the cloud or managed services deployment model. Full scale implementation&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">ranging from weeks to a few months. Professional services - as much or as little as you need.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">All customer data points blend into a single, coherent human centric data model regardless of type, volume, velocity or source. We call this our Audience Intelligence Platform (\"AIP\").</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
