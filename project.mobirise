@@ -1193,6 +1193,14 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            },
+            "H4": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "features3-3m",
           "_params": {
             "paddingTop": 2,
@@ -1291,15 +1299,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            },
-            "H4": {
-              "font-size": "22px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "msg-box8",
@@ -2878,6 +2878,14 @@
             "Extension"
           ],
           "_name": "extFeatures3",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "@primaryColor !important"
+            },
+            ".wraper": {
+              "border-color": "@primaryColor !important"
+            }
+          },
           "_anchor": "extFeatures3-5m",
           "_params": {
             "iconsBgColor": "@primaryColor",
@@ -2909,9 +2917,10 @@
               "name": "touch",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "Email.html",
               "size": 0,
-              "color": "#c39f76"
+              "color": "#c39f76",
+              "newWindow": false
             }
           },
           "title1": "Behavior Analysis",
@@ -2925,9 +2934,10 @@
               "name": "growing-chart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "Email.html",
               "size": 0,
-              "color": "#c39f76"
+              "color": "#c39f76",
+              "newWindow": false
             }
           },
           "title2": "Outcome Analysis",
@@ -2941,9 +2951,10 @@
               "name": "like",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "Email.html",
               "size": 0,
-              "color": "#c39f76"
+              "color": "#c39f76",
+              "newWindow": false
             }
           },
           "title3": "Experience Analysis",
@@ -2957,23 +2968,16 @@
               "name": "globe",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "Email.html",
               "size": 0,
-              "color": "#c39f76"
+              "color": "#c39f76",
+              "newWindow": false
             }
           },
           "title4": "Segmented Audience",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "This is one of the most common mistakes companies make, both large and small. Despite the fact that segmented and targeted emails generate 58% of all revenue, 42% of marketers still choose not to send targeted email messages.<br><br>Geographic<br>Demographic<br>Behavioral<br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "@primaryColor !important"
-            },
-            ".wraper": {
-              "border-color": "@primaryColor !important"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -4007,6 +4011,11 @@
             "Extension"
           ],
           "_name": "extFeatures11",
+          "_styles": {
+            "H4": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "extFeatures11-5s",
           "_params": {
             "blocks": "6",
@@ -4065,12 +4074,7 @@
           "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
           "date12": "12 December 2016",
           "title12": "12. Awesome Reports",
-          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "_styles": {
-            "H4": {
-              "text-align": "center"
-            }
-          }
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit."
         },
         {
           "_styles": {
@@ -4098,6 +4102,14 @@
             "Extension"
           ],
           "_name": "extFeatures4",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            }
+          },
           "_anchor": "extFeatures4-5r",
           "_params": {
             "paddingTop": 2,
@@ -4183,15 +4195,7 @@
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -4363,6 +4367,17 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#efefef",
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#efefef",
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-5z",
           "_params": {
             "imageSize": "54",
@@ -4409,24 +4424,19 @@
           },
           "title": "Extracting Value From Video Data",
           "text": "&nbsp;New video services have emerged to meet shifting consumer viewing preferences. For example, pay TV operators are delivering TV over the internet (TV Everywhere) and pay TV alternatives, like Netflix and Hulu provide over-the-top streaming subscription video on demand services (OTT SVoD). Accordingly, content distribution technologies and viewing habits have changed. IP-based delivery has superseded traditional content delivery methods, and a complex ecosystem has developed around creating, managing, and delivering video content.<br><br>Connected Intelligence identifies high value micro-segments. User segmentaiton is based on a number of factors, including content preferences, demographic information and multi-screen engagement, can help to build clear profiles that can help advertisers understand what they are buying. As multiple valuable viewing segments shift to multi-screen viewing, being able to measure actual viewing and engagement across these platforms will only help to further justify spend.<br><br>Crucially, the volume and granularity of data available to video service providers can be leveraged to innovate new and potentially lucrative opportunities. For example, high-value micro-segments can be created based on profiling and detailed real-time location information. Advertisers can target these viewers on a cost-per-impression basis at a far higher yield than otherwise, with real-time measurement in place, creating a win-win situation for both advertiser and video service provider.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#efefef",
-              "font-size": "20px",
-              "text-align": "left"
-            },
-            "P": {
-              "color": "#efefef",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
           "_anchor": "msg-box5-5w",
           "_params": {
             "imageSize": "52",
@@ -4473,13 +4483,7 @@
           },
           "title": "Great Movie-going Experience Starts Online",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Connected Intelligence&nbsp;has the&nbsp;marketing and cinema experience you need to help sell more tickets online and get customers engaged with your brand. We combine data with our industry insight and experience to increase your revenue in ways that can be measured.</span><br><br>As the data sources available to the industry multiply on a daily basis, the challenge is how to build your own analytics capability with costs and skills required in key IT areas, such as:<br><br>Costs of Hardware, Infrastructure &amp; Software<br>Data Integrations, Protection &amp; Security<br>Development &amp; Support Resources<br>Analytics, Visualisation &amp; Data Science Skills<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
